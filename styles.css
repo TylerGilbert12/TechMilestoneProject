@@ -1,0 +1,21 @@
+body { 
+ background-color: rgb(60,60,70);
+}
+.title {   
+    font: bold 3em Tahoma, arial, sans-serif;  
+    color: white;
+    font-style: stong;
+    text-align: center
+     }
+.body {   
+    font: bold 1.25em Tahoma, arial, sans-serif;  
+    color: white;
+    font-style: stong;
+    text-indent: 150px;
+}
+ .heading {   
+    font: bold 2em Tahoma, arial, sans-serif;  
+    color: white;
+    font-style: stong;
+    text-align: center
+
